@@ -480,7 +480,7 @@
     "coffee-script": "^1.10.0",
     "coveralls": "^3.0.1",
     "cross-spawn": "^6.0.5",
-    "eslint": "^4.19.1",
+    "eslint": "^5.0.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-semistandard": "^12.0.1",
     "eslint-config-standard": "^11.0.0",
