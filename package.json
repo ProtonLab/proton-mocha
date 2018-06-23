@@ -1,5 +1,5 @@
 {
-  "name": "proton-mocha",
+  "name": "@protonlab/mocha",
   "version": "5.2.1",
   "description": "simple, flexible, fun test framework",
   "keywords": [
