@@ -1,6 +1,6 @@
 {
   "name": "proton-mocha",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "description": "simple, flexible, fun test framework",
   "keywords": [
     "mocha",
@@ -454,7 +454,6 @@
     "node": ">= 4.0.0"
   },
   "scripts": {
-    "prepublishOnly": "nps test clean build",
     "start": "nps",
     "test": "nps test",
     "precommit": "lint-staged"
